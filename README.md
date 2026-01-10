@@ -22,6 +22,26 @@ YKS'ye hazırlanan ve yazılım öğrenen bir öğrenciyim 🎓
 
 ## 📊 GitHub İstatistiklerim
 
+## 🏆 Başarılarım & İstatistikler
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=berkayyuklu&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</p>
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayyuklu&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=berkayyuklu&theme=tokyonight" alt="streak" />
+</p>
+
+### 📈 Aktivite Grafiği
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayyuklu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayyuklu&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyuklu&layout=compact&theme=tokyonight)
