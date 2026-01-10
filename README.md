@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Berkay Yüklü!
 
-YKS'ye hazırlanan ve yazılım öğrenen bir öğrenciyim 🎓
+Teknoloji meraklısı biriyim...
 
 ---
 
@@ -31,13 +31,12 @@ YKS'ye hazırlanan ve yazılım öğrenen bir öğrenciyim 🎓
 
 - 📚 YKS'ye hazırlanıyorum
 - 💻 Web development öğreniyorum
-- 🍅 Pomodoro tekniği ile verimli çalışıyorum
 
 ---
 
 ## ⚡ Eğlenceli Gerçek
 
-Kodlarken her bir pomdoroda ağacım büyüyor! 🌳
+Kodlarken her bir pomodoroda ağacım büyüyor! 🌳
 
 ---
 
@@ -45,6 +44,6 @@ Kodlarken her bir pomdoroda ağacım büyüyor! 🌳
 
 - 💼 GitHub: [@berkayyuklu](https://github.com/berkayyuklu)
 - 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/index.html/)
-- E-MAİL   : yukluberkay@gmail.com
+- 📩 E-MAİL: yukluberkay@gmail.com
 
 
