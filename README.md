@@ -6,7 +6,7 @@ YKS'ye hazırlanan ve yazılım öğrenen bir öğrenciyim 🎓
 
 ## 🚀 Projelerim
 
-- 🍅 **[Pomodoro Ağaç Yetiştirici](https://berkayyuklu.github.io/pomodoro-app)** - PWA ile üretkenlik uygulaması
+- 🍅 **[Pomodoro Ağaç Yetiştirici](https://berkayyuklu.github.io/index.html/)** - PWA ile üretkenlik uygulaması
 - 🌳 Çalış, odaklan ve ağacını büyüt!
 
 ---
