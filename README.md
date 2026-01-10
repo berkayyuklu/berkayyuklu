@@ -47,4 +47,4 @@ Kodlarken her bir pomdoroda ağacım büyüyor! 🌳
 - 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/index.html/)
 - E-MAİL   : yukluberkay@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/berkayyuklu/count.svg)
+
