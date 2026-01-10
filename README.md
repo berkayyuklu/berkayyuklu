@@ -45,6 +45,6 @@ Kodlarken her 25 dakikada bir ağacım büyüyor! 🌳
 ## 📫 Bana Ulaş
 
 - 💼 GitHub: [@berkayyuklu](https://github.com/berkayyuklu)
-- 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/pomodoro-app)
+- 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/index.html/)
 
 ![Visitor Count](https://profile-counter.glitch.me/berkayyuklu/count.svg)
