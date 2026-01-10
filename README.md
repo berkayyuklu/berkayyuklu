@@ -37,7 +37,7 @@ YKS'ye hazırlanan ve yazılım öğrenen bir öğrenciyim 🎓
 
 ## ⚡ Eğlenceli Gerçek
 
-Kodlarken her 25 dakikada bir ağacım büyüyor! 🌳
+Kodlarken her bir pomdoroda ağacım büyüyor! 🌳
 
 ---
 
@@ -45,5 +45,6 @@ Kodlarken her 25 dakikada bir ağacım büyüyor! 🌳
 
 - 💼 GitHub: [@berkayyuklu](https://github.com/berkayyuklu)
 - 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/index.html/)
+- E-MAİL   : yukluberkay@gmail.com
 
 ![Visitor Count](https://profile-counter.glitch.me/berkayyuklu/count.svg)
