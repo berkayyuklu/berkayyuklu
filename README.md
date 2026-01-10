@@ -25,30 +25,6 @@ Teknoloji meraklısı biriyim...
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayyuklu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkayyuklu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkayyuklu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyuklu&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
-## 🔥 Commit Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=berkayyuklu&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
 ---
 
 ## 🌱 Şu An
