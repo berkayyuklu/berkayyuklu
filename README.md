@@ -8,7 +8,7 @@ Teknoloji meraklısı biriyim...
 
 - 🍅 **[Pomodoro Ağaç Yetiştirici](https://berkayyuklu.github.io/index.html/)** - PWA ile üretkenlik uygulaması
 - 🌳 Çalış, odaklan ve ağacını büyüt!
-  
+--  
 - 📚 **[YKS Soru Bankası PRO](https://berkayyuklu.github.io/ykssoruuyg/)** -  İhtiyaçların doğurduğu soru uygulaması
 - 📖 Takıldığın soruları uygulamaya yükle düzenli bir şekilde hedefine ulaş!
 
