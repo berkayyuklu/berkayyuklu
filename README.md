@@ -6,6 +6,9 @@ Teknoloji meraklısı biriyim...
 
 ## 🚀 Projelerim
 
+- 💻 **[Kişisel Blogum](https://berkayyuklu.github.io/myblog/)** - İnsanlarla etkileşimde bulunmak için doğru adres
+- 📱 Kendi hayatını paylaş, bilgilen ve bilgilendir...
+--
 - 🍅 **[Pomodoro Ağaç Yetiştirici](https://berkayyuklu.github.io/index.html/)** - PWA ile üretkenlik uygulaması
 - 🌳 Çalış, odaklan ve ağacını büyüt!
 --  
