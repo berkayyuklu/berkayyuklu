@@ -49,7 +49,7 @@ Kodlarken her bir pomodoroda ağacım büyüyor! 🌳
 ## 📫 Bana Ulaş
 
 - 💼 GitHub: [@berkayyuklu](https://github.com/berkayyuklu)
-- 🌐 Projem: [Pomodoro App](https://berkayyuklu.github.io/index.html/)
+- 🌐 My Blog: [Kişisel Blogum](https://berkayyuklu.github.io/myblog/)
 - 📩 E-MAİL: yukluberkay@gmail.com
 
 
