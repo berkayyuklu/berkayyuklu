@@ -43,8 +43,8 @@ Teknoloji meraklısı biriyim...
 
 ### Google Analytics
 
-<a href="SERTIFIKA_LINKI">
-<img src="./assets/certificates/google-analytics.png" width="350"/>
+<a href="sosyal_medyada_içerik_üretim_süreci.pdf">
+<img src="./sosyal_medyada_içerik_üretim_süreci.pdf" width="350"/>
 </a>
 
 </td>
