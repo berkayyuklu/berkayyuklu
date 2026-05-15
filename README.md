@@ -49,6 +49,17 @@ Teknoloji meraklısı biriyim...
   </a>
 </p>
 ---
+## 🏆 BTK Akademi Sertifikalarım
+
+<p align="center">
+  <img src="./assets/certificates/icerik-uretim.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./assets/certificates/marka-iletisimi.png" width="700"/>
+</p>
+
+---
 
 ## 🌱 Şu An
 
