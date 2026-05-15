@@ -41,10 +41,10 @@ Teknoloji meraklısı biriyim...
 <tr>
 <td align="center">
 
-### Google Analytics
+### BTK Akademi
 
 <a href="sosyal_medyada_içerik_üretim_süreci.pdf">
-<img src="./sosyal_medyada_içerik_üretim_süreci.pdf" width="350"/>
+<img src="sosyal_medyada_içerik_üretim_süreci.pdf" width="350"/>
 </a>
 
 </td>
