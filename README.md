@@ -37,30 +37,17 @@ Teknoloji meraklısı biriyim...
 ---
 ## 🏆 Sertifikalarım
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+  <a href="./assets/certificates/sosyal_medyada_içerik_üretim_süreci.pdf">
+    <img src="https://img.shields.io/badge/BTK%20Akademi-Sosyal%20Medyada%20İçerik%20Üretim%20Süreci-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+</p>
 
-### BTK Akademi
-
-<a href="sosyal_medyada_içerik_üretim_süreci.pdf">
-<img src="sosyal_medyada_içerik_üretim_süreci.pdf" width="350"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### BTK Akademi
-
-<a href="SERTIFIKA_LINKI">
-<img src="./assets/certificates/btk-sosyalmedya.png" width="350"/>
-</a>
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <a href="./assets/certificates/sosyal_medyada_marka_iletişimi.pdf">
+    <img src="https://img.shields.io/badge/BTK%20Akademi-Sosyal%20Medyada%20Marka%20İletişimi-111827?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🌱 Şu An
