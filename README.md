@@ -6,6 +6,9 @@ Teknoloji meraklısı biriyim...
 
 ## 🚀 Projelerim
 
+- 📸 **[Girişim projem](https://berkayyuklu.github.io/Photo-Berkay/#hero)** - Sosyl Medya Hesaplarınızı Emin Ellere Bırakın
+- 📈 Sosyal Medya Analizlerinizle Beraber Çok Daha Fazla Gelişin...
+-- 
 - 💻 **[Kişisel Blogum](https://berkayyuklu.github.io/myblog/)** - İnsanlarla etkileşimde bulunmak için doğru adres
 - 📱 Kendi hayatını paylaş, bilgilen ve bilgilendir...
 --
@@ -38,18 +41,13 @@ Teknoloji meraklısı biriyim...
 - 📚 YKS'ye hazırlanıyorum
 - 💻 Web development öğreniyorum
 
----
-
-## ⚡ Eğlenceli Gerçek
-
-Kodlarken her bir pomodoroda ağacım büyüyor! 🌳
 
 ---
 
 ## 📫 Bana Ulaş
 
 - 💼 GitHub: [@berkayyuklu](https://github.com/berkayyuklu)
-- 🌐 My Blog: [Kişisel Blogum](https://berkayyuklu.github.io/myblog/)
+- 🌐 Web Sitem: [PhotoBerkay](https://berkayyuklu.github.io/Photo-Berkay/#hero)
 - 📩 E-MAİL: yukluberkay@gmail.com
 
 
