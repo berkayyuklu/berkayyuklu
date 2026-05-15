@@ -35,6 +35,33 @@ Teknoloji meraklısı biriyim...
 
 
 ---
+## 🏆 Sertifikalarım
+
+<table>
+<tr>
+<td align="center">
+
+### Google Analytics
+
+<a href="SERTIFIKA_LINKI">
+<img src="./assets/certificates/google-analytics.png" width="350"/>
+</a>
+
+</td>
+
+<td align="center">
+
+### BTK Akademi
+
+<a href="SERTIFIKA_LINKI">
+<img src="./assets/certificates/btk-sosyalmedya.png" width="350"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🌱 Şu An
 
