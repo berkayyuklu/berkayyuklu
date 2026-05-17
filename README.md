@@ -6,7 +6,7 @@ Teknoloji meraklısı biriyim...
 
 ## 🚀 Projelerim
 
-- 📸 **[Girişim projem](https://berkayyuklu.github.io/Photo-Berkay/#hero)** - Sosyl Medya Hesaplarınızı Emin Ellere Bırakın
+- 📸 **[Girişim projem](https://berkayyuklu.github.io/Photo-Berkay/#hero)** - Sosyal Medya Hesaplarınızı Emin Ellere Bırakın
 - 📈 Sosyal Medya Analizlerinizle Beraber Çok Daha Fazla Gelişin...
 -- 
 - 💻 **[Kişisel Blogum](https://berkayyuklu.github.io/myblog/)** - İnsanlarla etkileşimde bulunmak için doğru adres
